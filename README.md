@@ -1,1 +1,4 @@
-# K-List=laravel
+# K-List feat Laravel
+# YSE 横浜システム工学院専門学校
+# IT・ゲームソフト科　2年　220064
+# モハッマド　ワヒュ　ブディ　ムルヤ
